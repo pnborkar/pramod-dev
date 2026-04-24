@@ -62,10 +62,10 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "Graph-Augmented Supply Chain Optimizer on Databricks",
+      summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks. Uses a multi-agent architecture to answer natural-language questions about supplier risk, part availability, shipment disruptions, and BOM dependencies — routing intelligently between SQL (Delta Lake), graph traversal (Neo4j AuraDB), and graph algorithms (Neo4j GDS) depending on the question type.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://github.com/supply-chain-optimzer",
       image: "/spotifu.png",
     },
     {
@@ -85,9 +85,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Hi, I'm Pramod Borkar, a Senior Solutions Architect based in the Bay Area. I spend my days helping enterprise teams solve connected-data problems with Neo4j, Databricks, and the modern AI stack — and my evenings building demos that explore where those stacks are heading.
+Before Neo4j, I spent 15+ years in pre-sales and technical enablement across MongoDB, Okta, Exabeam, and BMC. My sweet spot is the part of the job where a customer walks in thinking they have one problem, and walks out realizing they actually have a different — more solvable — one.
+I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, let's talk.
     `,
     image: "/alejandro-big.jpg",
   },
