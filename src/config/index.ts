@@ -31,14 +31,14 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "Neo4j",
+      position: "Solutions Architect",
+      startDate: "January 2024",
+      endDate: "Present",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        
+        "Pre-sales architect for strategic accounts, positioning Neo4j's graph platform against lakehouse competitors like Databricks and Snowflake, with a focus on GraphRAG and AI-era workloads.",
+        "Build customer demos and internal enablement assets — most recently a multi-agent supply chain tool combining Neo4j AuraDB and Databricks Delta with Claude-powered natural language routing.",
       ],
     },
     {
