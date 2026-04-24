@@ -69,7 +69,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "TennisPOD",
-      summary: "A computer-vision tennis serve analyzer built with MediaPipe, OpenCV, Flask, and Chart.js. Captures session video, extracts pose keypoints, and tracks serve mechanics across sessions for players working on form. Built as a tool for junior competitive players working toward higher UTR levels.",
+      summary: "Computer-vision tennis serve analyzer. Tracks pose keypoints and mechanics across sessions",
       linkPreview: "/",
       linkSource: "https://github.com/pnborkar/tennis-pod",
       image: "/tennis.png",
