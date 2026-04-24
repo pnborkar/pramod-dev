@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Solutions Architect at Neo4j. 15+ years in pre&post-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/pramod1.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -64,9 +64,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Graph-Augmented Supply Chain Optimizer on Databricks",
       summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks and Neo4j",
-      linkPreview: "/",
-      linkSource: "https://github.com/pnborkar/supply-chain-optimzer",
-      image: "/spotifu.png",
+      linkSource: "https://github.com/pnborkar/supply-chain-optimizer",
+      image: "/architecture.png",
     },
     {
       name: "Shopp App",
