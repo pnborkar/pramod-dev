@@ -11,7 +11,7 @@
 
   --color-primary: #2563eb;    /* keep the blue */
   --color-neutral: #64748b;
-  --color-white:#e2e8f0;     /* now this is the text — dark */
+  --color-white: #0f172a;      /* now this is the text — dark */
   --color-black: #fafaf9;      /* now this is the background — warm off-white */
 
   --text-xs: 0.875rem;
