@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Solutions Architect at Neo4j. 15+ years in pre&post-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
   lang: "en",
-  siteLogo: "/pramod1.jpg",
+  siteLogo: "/pramod2.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -65,7 +65,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Graph-Augmented Supply Chain Optimizer on Databricks",
       summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks and Neo4j",
       linkSource: "https://github.com/pnborkar/supply-chain-optimizer",
-      image: "/architecture.png",
+      image: "/supply_chain.png",
     },
     {
       name: "Shopp App",
@@ -88,7 +88,7 @@ export const SITE_CONTENT: SiteContent = {
 Before Neo4j, I spent 15+ years in pre-sales and technical enablement across MongoDB, Okta, Exabeam, and BMC. My sweet spot is the part of the job where a customer walks in thinking they have one problem, and walks out realizing they actually have a different — more solvable — one.
 I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, let's talk.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/pramod2.jpg",
   },
 };
 
