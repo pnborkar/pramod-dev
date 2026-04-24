@@ -79,10 +79,10 @@ export const SITE_CONTENT: SiteContent = {
       image: "/tennis.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "Pattern Matching Kit",
+      summary: "A reusable Neo4j Cypher pattern library for fraud rings, recommendations, supply chain risk, and customer behavior — built to accelerate SA discovery conversations.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://neo4j.com/blog/graph-database/what-is-pattern-matching",
       image: "/clone-ig.png",
     },
   ],
