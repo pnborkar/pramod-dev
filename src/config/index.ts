@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Solutions Architect at Neo4j. 15+ years in pre&post-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
   lang: "en",
-  siteLogo: "/pramod2.jpg",
+  siteLogo: "/pramod1.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -72,18 +72,18 @@ export const SITE_CONTENT: SiteContent = {
       image: "/supply_chain.png",
     },
     {
+      name: "Pattern Matching Kit",
+      summary: "A reusable Neo4j Cypher pattern library for fraud rings, recommendations, supply chain risk, and customer behavior — built to accelerate SA discovery conversations.",
+      linkPreview: "/",
+      linkSource: "https://neo4j.com/blog/graph-database/what-is-pattern-matching",
+      image: "/route.png",
+    },
+    {
       name: "TennisPOD",
       summary: "Computer-vision tennis serve analyzer. Tracks pose keypoints and mechanics across sessions",
       linkPreview: "/",
       linkSource: "https://github.com/pnborkar/tennis-pod",
       image: "/tennis.png",
-    },
-    {
-      name: "Pattern Matching Kit",
-      summary: "A reusable Neo4j Cypher pattern library for fraud rings, recommendations, supply chain risk, and customer behavior — built to accelerate SA discovery conversations.",
-      linkPreview: "/",
-      linkSource: "https://neo4j.com/blog/graph-database/what-is-pattern-matching",
-      image: "/clone-ig.png",
     },
   ],
   about: {
