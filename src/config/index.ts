@@ -76,7 +76,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A reusable Neo4j Cypher pattern library for fraud rings, recommendations, supply chain risk, and customer behavior — built to accelerate SA discovery conversations.",
       linkPreview: "/",
       linkSource: "https://neo4j.com/blog/graph-database/what-is-pattern-matching",
-      image: "/route1.jpeg",
+      image: "/route2.png",
     },
     {
       name: "TennisPOD",
