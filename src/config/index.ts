@@ -37,18 +37,18 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "Present",
       summary: [
         
-        "Pre-sales architect for strategic accounts, positioning Neo4j's graph platform against lakehouse competitors like Databricks and Snowflake, with a focus on GraphRAG and AI-era workloads.",
+        "Pre-sales architect for strategic accounts positioning Neo4j's graph platform as a knowledge layer. Work alongside data platforms like Databricks, Snowflake, and Google Cloud with a focus on GraphRAG and AI-era workloads.",
         "Build customer demos and internal enablement assets — most recently a multi-agent supply chain tool combining Neo4j AuraDB and Databricks Delta with Claude-powered natural language routing.",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "MongoDB",
+      position: "Manager, Products & Solutions",
+      startDate: "May 2021",
+      endDate: "Jan 2024",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Partnered with field SAs on high-stakes POCs and discovery calls, bringing trenches-level context back into enablement content.",
+        "Built enablement assets on modern MongoDB patterns — aggregation frameworks, Atlas Search, vector search — used by 100+ field SAs.",
       ],
     },
     {
