@@ -63,9 +63,9 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Graph-Augmented Supply Chain Optimizer on Databricks",
-      summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks. Uses a multi-agent architecture to answer natural-language questions about supplier risk, part availability, shipment disruptions, and BOM dependencies — routing intelligently between SQL (Delta Lake), graph traversal (Neo4j AuraDB), and graph algorithms (Neo4j GDS) depending on the question type.",
+      summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks and Neo4j",
       linkPreview: "/",
-      linkSource: "https://github.com/supply-chain-optimzer",
+      linkSource: "https://github.com/pnborkar/supply-chain-optimzer",
       image: "/spotifu.png",
     },
     {
