@@ -52,14 +52,18 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
-      summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
-    },
-  ],
+    
+      company: "Okta",
+      position: "Principal Client Architect",
+      startDate: "Jan 2012",
+      endDate: "Jan 2016",
+      summary: [
+      "Designed enterprise-scale IAM architectures for strategic customers including Intel, Adobe, and Varian Medical.",
+      "Led architecture reviews across complex identity environments, partnering with CIOs and security teams on SSO, lifecycle management, and adaptive MFA.",
+      "Built custom integrations that extended Okta's platform and contributed to $25M+ in upsell revenue,",
+     ],
+    }
+ ],
   projects: [
     {
       name: "Graph-Augmented Supply Chain Optimizer on Databricks",
