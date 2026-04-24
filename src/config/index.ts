@@ -68,11 +68,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/supply_chain.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "TennisPOD",
+      summary: "A computer-vision tennis serve analyzer built with MediaPipe, OpenCV, Flask, and Chart.js. Captures session video, extracts pose keypoints, and tracks serve mechanics across sessions for players working on form. Built as a tool for junior competitive players working toward higher UTR levels.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      linkSource: "https://github.com/pnborkar/tennis-pod",
+      image: "/tennis.png",
     },
     {
       name: "ClonTagram",
