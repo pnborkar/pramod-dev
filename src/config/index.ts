@@ -74,14 +74,12 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Pattern Matching Kit",
       summary: "A reusable Neo4j Cypher pattern library for fraud rings, recommendations, supply chain risk, and customer behavior — built to accelerate SA discovery conversations.",
-      linkPreview: "/",
       linkSource: "https://neo4j.com/blog/graph-database/what-is-pattern-matching",
       image: "/route2.png",
     },
     {
       name: "TennisPOD",
       summary: "Computer-vision tennis serve analyzer. Tracks pose keypoints and mechanics across sessions",
-      linkPreview: "/",
       linkSource: "https://github.com/pnborkar/tennis-pod",
       image: "/tennis.png",
     },
@@ -90,7 +88,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
       Hi, I'm Pramod Borkar, a Senior Solutions Architect based in the Bay Area. I spend my days helping enterprise teams solve connected-data problems with Neo4j, Databricks, and the modern AI stack — and my evenings building demos that explore where those stacks are heading.
 Before Neo4j, I spent 15+ years in pre-sales and technical enablement across MongoDB, Okta, Exabeam, and BMC. My sweet spot is the part of the job where a customer walks in thinking they have one problem, and walks out realizing they actually have a different, more solvable one.
-I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, let's talk!.
+I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, <a href="mailto:pramod@example.com">Let's talk!</a>.
     `,
     image: "/pramod2.jpg",
   },
