@@ -9,8 +9,7 @@
   --color-white: #e2e8f0;
   --color-black: #0e141b; */
 
-  /*--color-primary: #2563eb; */   /* keep the blue */
-   --color-primary: #60a5fa;
+  --color-primary: #2563eb;    /* keep the blue */
   --color-neutral: #64748b;
   --color-white: #0f172a;      /* now this is the text — dark */
   --color-black: #fafaf9;      /* now this is the background — warm off-white */
