@@ -89,7 +89,7 @@ export const SITE_CONTENT: SiteContent = {
       Hi, I'm Pramod Borkar, a Senior Solutions Architect based in the Bay Area. I spend my days helping enterprise teams solve connected-data problems with Neo4j, Databricks, and the modern AI stack — and my evenings building demos that explore where those stacks are heading.
 Before Neo4j, 
 \n I spent 15+ years in pre-sales and technical enablement across MongoDB, Okta, Exabeam, and BMC. My sweet spot is the part of the job where a customer walks in thinking they have one problem, and walks out realizing they actually have a different, more solvable one.
-I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, <a href="mailto:your-email@example.com">let's talk</a>.
+I write occasionally about graph, lakehouses, and the evolving data stack. If any of that is interesting, let's talk.
     `,
     image: "/pramod2.jpg",
   },
