@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Pramod Borkar - Solutions Architect",
   author: "Pramod Borkar",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Solutions Architect at Neo4j. 15+ years in pre&post-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -23,11 +23,11 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Pramod Borkar",
+    specialty: "Solutions Architect",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Solutions Architect at Neo4j. 15+ years in pre-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
+    email: "pnborkar@email.com",
   },
   experience: [
     {
