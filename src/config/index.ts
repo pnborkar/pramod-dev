@@ -27,7 +27,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Solutions Architect",
     summary:
       "Solutions Architect at Neo4j. 15+ years in pre-sales across data, identity, and ops. I write about what I'm seeing in the field and build demos that show graph + AI working together.",
-    email: "pnborkar@email.com",
+    email: "pnborkar@gmail.com",
   },
   experience: [
     {
@@ -68,7 +68,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Graph-Augmented Supply Chain Optimizer on Databricks",
       summary: "An AI-powered supply chain risk and disruption analysis tool built on Databricks and Neo4j",
-      linkSource: "https://github.com/pnborkar/supply-chain-optimizer",
+      linkSource: "https://github.com/neo4j-partners/databricks-neo4j-supply-chain",
       image: "/supply_chain.png",
     },
     {
